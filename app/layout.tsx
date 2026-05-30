@@ -3,8 +3,8 @@ import './globals.css';
 import AppShell from '@/components/AppShell';
 
 export const metadata: Metadata = {
-  title: 'Gia Anh Furniture — Hệ thống quản lý bán hàng',
-  description: 'Kinh thánh bán hàng thời trang nam online — quản lý, nhắc việc, kiểm soát',
+  title: 'Gia Anh Furniture — Hệ thống quản lý bán hàng nội thất outdoor',
+  description: 'SOP bán hàng nội thất ngoài trời — bàn ghế sân vườn, Shopee, FB, TikTok',
 };
 
 export const viewport: Viewport = {
@@ -13,7 +13,7 @@ export const viewport: Viewport = {
   maximumScale: 1,
   userScalable: false,
   viewportFit: 'cover',
-  themeColor: '#0d0d1a',
+  themeColor: '#0d1a14',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
